@@ -1,4 +1,4 @@
-# Customer Churn Prediction Analysis
+ # Customer Churn Prediction Analysis
  
 ## 📌 Project Overview
 Customer churn prediction is a machine learning project that identifies customers who are likely to stop using a company's services. This project uses the **Telco Customer Churn** dataset to preprocess data, train a machine learning model, and evaluate its performance for predicting customer churn.
